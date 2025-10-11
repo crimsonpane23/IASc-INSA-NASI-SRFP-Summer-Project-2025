@@ -82,5 +82,5 @@ For queries or further information regarding this project:
 
 ---
 
-**© 2025 [Your Name]**  
+**© 2025 [Aryan Shrivastava]**  
 *IASc-INSA-NASI Summer Research Fellowship Project, Tezpur University*

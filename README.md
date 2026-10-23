@@ -1,4 +1,4 @@
-# IASc-INSA-NASI Summer Research Fellowship Project  
+# IASc-INSA-NASI Summer Research Fellowship Project 2025
 **Title:** Machine Learning and Simulation Studies under the IASc-INSA-NASI Summer Research Fellowship 2025  
 **Student:** Aryan Shrivastava  
 **Host Guide:** Dr. Moon Moon Devi, Assistant Professor, Department of Physics, Tezpur University  
